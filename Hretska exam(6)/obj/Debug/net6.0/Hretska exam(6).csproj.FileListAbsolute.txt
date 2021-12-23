@@ -1,0 +1,15 @@
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\bin\Debug\net6.0\Hretska exam(6).exe
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\bin\Debug\net6.0\Hretska exam(6).deps.json
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\bin\Debug\net6.0\Hretska exam(6).runtimeconfig.json
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\bin\Debug\net6.0\Hretska exam(6).dll
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\bin\Debug\net6.0\ref\Hretska exam(6).dll
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\bin\Debug\net6.0\Hretska exam(6).pdb
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\obj\Debug\net6.0\Hretska exam(6).csproj.AssemblyReference.cache
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\obj\Debug\net6.0\Hretska exam(6).GeneratedMSBuildEditorConfig.editorconfig
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\obj\Debug\net6.0\Hretska exam(6).AssemblyInfoInputs.cache
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\obj\Debug\net6.0\Hretska exam(6).AssemblyInfo.cs
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\obj\Debug\net6.0\Hretska exam(6).csproj.CoreCompileInputs.cache
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\obj\Debug\net6.0\Hretska exam(6).dll
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\obj\Debug\net6.0\ref\Hretska exam(6).dll
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\obj\Debug\net6.0\Hretska exam(6).pdb
+C:\repository-github-ira\GitHub\C-sharp\lab 13\Hretska exam(6)\Hretska exam(6)\obj\Debug\net6.0\Hretska exam(6).genruntimeconfig.cache
